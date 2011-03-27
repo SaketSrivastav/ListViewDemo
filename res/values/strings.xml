@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ListViewDemo!</string>
+    <string name="app_name">EFY Group</string>
+    <string-array name="titles">
+    	<item name="lfy_mag">Linux For You</item>
+    	<item name="efy_mag">Electronics For You</item>
+    	<item name="ffy_mag">Facts For You</item>
+    	<item name="benefit_mag">BenefIT</item>
+    	<item name="eb_mag">Electronics Bazaar</item>
+    </string-array>
+    <string-array name="magz_links">
+    	<item name="lfy_mag">http://www.linuxforu.com</item>
+    	<item name="efy_mag">http://www.efymag.com</item>
+    	<item name="ffy_mag">http://www.ffymag.com</item>
+    	<item name="benefit_mag">http://www.benefitmag.com</item>
+    	<item name="eb_mag">http://www.eleb2b.com</item>
+    </string-array>
+</resources>
